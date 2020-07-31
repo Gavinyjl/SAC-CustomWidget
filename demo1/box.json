@@ -1,10 +1,10 @@
 {
 	"id": "com.sample.box",
-	"version": "3.0.1",
+	"version": "3.0.2",
 	"name": "Box",
 	"description": "A colored box",
 	"newInstancePrefix": "Box",
-	"icon": "https://gavinyjl.github.io/SAC-CustomWidget/box/icon.png",
+	"icon": "https://gavinyjl.github.io/SAC-CustomWidget/demo1/box/icon.png",
 	"vendor": "SAP",
 	"eula": "",
 	"license": "",
@@ -12,21 +12,21 @@
 		{
 			"kind": "main",
 			"tag": "com-sample-box",
-			"url": "https://gavinyjl.github.io/SAC-CustomWidget/box/box.js",
+			"url": "https://gavinyjl.github.io/SAC-CustomWidget/demo1/box/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "com-sample-box-styling",
-			"url": "https://gavinyjl.github.io/SAC-CustomWidget/box/box_styling.js",
+			"url": "https://gavinyjl.github.io/SAC-CustomWidget/demo1/box/box_styling.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-sample-box-builder",
-			"url": "https://gavinyjl.github.io/SAC-CustomWidget/box/box_builder.js",
+			"url": "https://gavinyjl.github.io/SAC-CustomWidget/demo1/box/box_builder.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}

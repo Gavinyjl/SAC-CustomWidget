@@ -5,7 +5,7 @@
 	"description": "A colored box",
 	"newInstancePrefix": "Box",
 	"icon": "https://gavinyjl.github.io/SAC-CustomWidget/box/icon.png",
-	"vendor": "Sample",
+	"vendor": "SAP",
 	"eula": "",
 	"license": "",
 	"webcomponents": [
